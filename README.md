@@ -37,7 +37,6 @@ Python and Pandas were used for loading, cleaning, filtering, grouping, and anal
 # Useful Websites
 
 * [Pandas Documentation](https://pandas.pydata.org/docs/)
-* [Kaggle – Netflix Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 * [Pandas Getting Started Guide](https://pandas.pydata.org/pandas-docs/stable/getting_started/intro_tutorials/index.html)
 * [Real Python – Working With CSV Files](https://realpython.com/python-csv/)
 
