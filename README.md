@@ -8,7 +8,7 @@ Dataset Link: https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 The purpose of this software is to practice data cleaning, aggregation, and exploratory analysis using Python and Pandas, while building a reusable script that can be extended for deeper insights.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/8PaGL-DY5rs)
 
 # Data Analysis Results
 
@@ -30,7 +30,7 @@ This project was developed using:
 - Python 3  
 - Pandas library  
 - Visual Studio Code  
-- Windows 10 / PowerShell environment  
+- Kaggle's Netflix CSV
 
 Python and Pandas were used for loading, cleaning, filtering, grouping, and analyzing the dataset.
 
